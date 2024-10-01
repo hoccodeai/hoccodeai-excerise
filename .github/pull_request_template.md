@@ -1,8 +1,15 @@
+---
+name: "Bài tập"
+about: "Bài tập của học viên"
+title: "[Tên của bạn] - [Tên file bài tập]"
+labels: ["exercise"]
+---
+
 ## Học viên
 [Tên của bạn]
 
 ## Bài tập
-[Link bài tập]
+[Tên file bài tập] hoặc [Link bài tập]
 
 ## Quá trình làm
 - [Mô tả ngắn gọn cách bạn làm bài tập]
