@@ -1,10 +1,3 @@
----
-name: "Bài tập"
-about: "Bài tập của học viên"
-title: "[Tên của bạn] - [Tên file bài tập]"
-labels: ["exercise"]
----
-
 ## Học viên
 [Tên của bạn]
 
